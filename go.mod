@@ -1,4 +1,4 @@
-module github.com/quic-go/webtransport-go
+module github.com/Doridian/webtransport-go
 
 go 1.22.0
 
